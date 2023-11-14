@@ -1,0 +1,14 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\bin\Debug\net6.0\1018_Cedulas.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\bin\Debug\net6.0\1018_Cedulas.deps.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\bin\Debug\net6.0\1018_Cedulas.runtimeconfig.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\bin\Debug\net6.0\1018_Cedulas.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\bin\Debug\net6.0\1018_Cedulas.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.AssemblyInfoInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.AssemblyInfo.cs
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\obj\Debug\net6.0\refint\1018_Cedulas.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\obj\Debug\net6.0\1018_Cedulas.genruntimeconfig.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1018_Cedulas\1018_Cedulas\obj\Debug\net6.0\ref\1018_Cedulas.dll
